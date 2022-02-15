@@ -1,0 +1,2 @@
+# UniVariableAsset
+Unity Variable ScriptableObject
